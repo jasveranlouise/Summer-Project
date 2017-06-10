@@ -41,5 +41,9 @@ class Welcome extends CI_Controller {
 		$this->load->helper(array('form', 'url'));
 		$this->load->view('login');
 	}
+	public function dashboard()
+	{
+		$this->load->view('dashboard');
+	}
 	
 }

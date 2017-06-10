@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body onload="displayCalendar()" class = "overvieew">
 
 <!-- Navbar -->
-<div class="w3-bar" style = "background-color: #0E0B16; color: #E7DFDD;">
+<div class="w3-bar w3-medium" style = "background-color: #0E0B16; color: #E7DFDD;">
   <a href="#" class="w3-bar-item w3-button">Bill Manager</a>
   <a href="#" class="w3-bar-item w3-button w3-hide-small">Overview</a>
   <a href="#" class="w3-bar-item w3-button w3-hide-small">Graph</a>
